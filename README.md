@@ -1,4 +1,4 @@
-# photography-page-example
+# photography-page
 
 To view this project, click the green Code button and download ZIP.
 
